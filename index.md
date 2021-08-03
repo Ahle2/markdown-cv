@@ -22,12 +22,12 @@ Embedded programming in C/C++/assembler, digital sound synthesis, low level comm
 
 ## Research interests
 
-Sound Synthesis, Retro Gaming, creating console emulators, Sound Amplifiers, Digital Signal Processing
+Sound Synthesis, Analog/Digital Electronics Design, Retro Gaming, Console Emulators (creating), Sound Amplifiers, Digital Signal Processing
 
 
 ## Education
 
-`2007-2009`
+`2007 - 2009`
 __Göteborgs Tekniska Institut (Vocational Degree)__
 
 `1998 - 2001`
@@ -80,7 +80,7 @@ __Senior Embedded Software Developer__,  Volvo Cars
 `2014`
 __Embedded Software Developer__, Lab Gruppen
 
-`2010-2014`
+`2010 - 2014`
 __Embedded Software Developer__, Ericsson
 
 `2010`
