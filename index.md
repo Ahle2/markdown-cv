@@ -7,7 +7,6 @@ Embedded Programmer, Electronics Designer, Sound Synthesis Enthusiast
 
 <div id="webaddress">
 <a href="johannes@mossekullen.se">johannes@mossekullen.se</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
@@ -66,7 +65,7 @@ Swedish, English, German
 B
 
 
-## Professional experience
+## Experience
 
 `2018 - 2021`
 __Software Architect, Senior Embedded Software Developer, Electronics Designer__, Alesco Int. AB
