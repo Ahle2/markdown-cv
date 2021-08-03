@@ -13,7 +13,7 @@ Embedded Programmer, Electronics Designer, Sound Synthesis Enthusiast
 
 ## Currently
 
-Developing software and electronics for the latest generation of Alesco induction heaters called ACE
+Developing software and electronics for the latest generation of Alesco Induction Heaters (ACE platform)
 
 ## Specialized in
 
@@ -37,16 +37,16 @@ __Frölundagymnasiet__
 ## Courses
 
 `2014`
-Lean, Ericsson Academy
+__Lean__, Ericsson Academy
 
 `2013`
-GIT, XDIN
+__GIT__, XDIN
 
 `2012`
-Cross Functional Teams, Informator
+__Cross Functional Teams__, Informator
 
 `2010`
-Embedded Linux
+__Embedded Linux__
 
 
 ## Certification
