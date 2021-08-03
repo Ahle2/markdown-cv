@@ -1,91 +1,107 @@
 ---
 layout: cv
-title: Isaaaaaac Newtons's CV
+title: Johannes Ahlebrand's CV
 ---
-# Isaac Neeeeewton
-Physicist, Mathematician, Cambridge professor.
+# Johannes Ahlebrand
+Embedded Programmer, Electronics Designer, Sound Synthesis Enthusiast
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="johannes@mossekullen.se">johannes@mossekullen.se</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Developing software and electronics for the latest generation of Alesco induction heaters called ACE
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Embedded programming in C/C++/assembler, digital sound synthesis, low level communication stacks and protocols, device drivers, memory management, embedded system cycle/memory optimizations
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Sound Synthesis, Retro Gaming, creating console emulators, Sound Amplifiers, Digital Signal Processing
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2007-2009`
+__Göteborgs Tekniska Institut (Vocational Degree)__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`1998 - 2001`
+__Frölundagymnasiet__
 
 
+## Courses
 
-## Awards
+`2014`
+Lean, Ericsson Academy
+
+`2013`
+GIT, XDIN
 
 `2012`
-President, *Royal Society*, London, UK
+Cross Functional Teams, Informator
 
-Associate, *French Academy of Science*, Paris, France
+`2010`
+Embedded Linux
 
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
+## Certification
 
 `2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Cross Functional Teams 2C, Informator
 
 
-## Occupation
+## Miscellaneous
 
-`1600`
-__Royal Mint__, London
+### Language
 
-- Warden
-- Minted coins
+Swedish, English, German
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### Driving license
+
+B
+
+
+## Occupation / Internship
+
+`2018 - 2021`
+__Software Architect, Senior Embedded Software Developer, Electronics Designer__, Alesco Int. AB
+
+`2010 - 2018`
+__Software Developer__, Cybercom Group
+
+`2014 - 2017`
+__Senior Embedded Software Developer__,  Volvo Cars
+
+`2014`
+__Embedded Software Developer__, Lab Gruppen
+
+`2010-2014`
+__Embedded Software Developer__, Ericsson
+
+`2010`
+__Electronic Engineer__, Sony Ericsson Mobile
+
+`2009`
+__Software Developer (Internship)__, Semcon
+
+`2008`
+__Software Developer In Test (Internship)__, Host Mobility
+
+`2001 - 2007`
+__Truck Driver__, Assmundsons Golv AB
+
+`2001`
+__Electronics Service Technician__, Centralservice i Göteborg AB
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: August 2021 -->
 
 
