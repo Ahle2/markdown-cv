@@ -15,12 +15,12 @@ Embedded Programmer, Electronics Designer, Sound Synthesis Enthusiast
 
 Developing software and electronics for the latest generation of Alesco induction heaters called ACE
 
-### Specialized in
+## Specialized in
 
 Embedded programming in C/C++/assembler, digital sound synthesis, low level communication stacks and protocols, device drivers, memory management, embedded system cycle/memory optimizations
 
 
-### Research interests
+## Research interests
 
 Sound Synthesis, Retro Gaming, creating console emulators, Sound Amplifiers, Digital Signal Processing
 
@@ -66,7 +66,7 @@ Swedish, English, German
 B
 
 
-## Occupation / Internship
+## Professional experience
 
 `2018 - 2021`
 __Software Architect, Senior Embedded Software Developer, Electronics Designer__, Alesco Int. AB
